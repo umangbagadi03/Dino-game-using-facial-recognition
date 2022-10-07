@@ -1,5 +1,5 @@
 # Dino-Game-using-Facial-Recognition
-I have simulated the Chrome's Dino game with the facial expressions. You can control the Dino with the facial movements like opening your mouth makes the Dino jump and leaning forward makes the Dino crouch.
+I have simulated the Chrome's Dino game with the facial expressions. Dino game can be controlled with the facial movements like opening your mouth makes the Dino jump and moving forward makes the Dino crouch.
 
 
 
