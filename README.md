@@ -13,7 +13,7 @@ I have simulated the Chrome's Dino game with the facial expressions. Dino game c
 </br>
 
 [![GitHub followers](https://github.com/umangbagadi03) 
-[![Twitter Follow]()
+[![Twitter Follow](https://twitter.com/BagadiUmang)
 </div>
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
